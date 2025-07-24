@@ -1,9 +1,24 @@
 {
-  "nested": {
-    "deep": {
-      "label": "Label"
-    },
-    "test": "Test nested"
-  },
-  "text": "This is home"
+  "description": "This is a simple example of a Next.js application with i18n support via next-i18next.",
+  "title": "A simple example",
+  "viewTitle": "SSE Test View",
+  "activeClients": "Active Clients",
+  "sendEvent": "Send Event",
+  "eventName": "Event name",
+  "data": "Data (JSON)",
+  "singleClient": "Single Client ID (optional)",
+  "singleClientPlaceholder": "Leave empty for multiple/broadcast",
+  "button": "Send Event",
+  "noMessages": "No messages yet",
+  "noClients": "No clients connected",
+  "broadcast": "Broadcast",
+  "eventLog": "Event Log",
+  "noEvents": "No events yet",
+  "connectionError": "Connection error",
+  "eventTypes": {
+    "connected": "Connected",
+    "ping": "Ping",
+    "message": "Message",
+    "error": "Error"
+  }
 }

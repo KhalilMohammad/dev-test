@@ -1,9 +1,24 @@
 {
-  "nested": {
-    "deep": {
-      "label": "Beschriftung"
-    },
-    "test": "Verschachtelung testen"
-  },
-  "text": "Das ist die Startseite"
+  "description": "Dies ist ein einfaches Beispiel f r eine Next.js-Anwendung mit i18n-Unterst tzung von next-i18next.",
+  "title": "Ein einfaches Beispiel",
+  "viewTitle": "SSE Test Ansicht",
+  "activeClients": "Aktive Clients",
+  "sendEvent": "Ereignis senden",
+  "eventName": "Ereignisname",
+  "data": "Daten (JSON)",
+  "singleClient": "Einzelne Client-ID (optional)",
+  "singleClientPlaceholder": "Leer lassen für mehrere / Broadcast",
+  "button": "Ereignis senden",
+  "noMessages": "Noch keine Nachrichten",
+  "noClients": "Keine Clients verbunden",
+  "broadcast": "Broadcast",
+  "eventLog": "Ereignisprotokoll",
+  "noEvents": "Noch keine Ereignisse",
+  "connectionError": "Verbindungsfehler",
+  "eventTypes": {
+    "connected": "Verbunden",
+    "ping": "Ping",
+    "message": "Nachricht",
+    "error": "Fehler"
+  }
 }
